@@ -8,6 +8,6 @@ int main(){
 
     printf("O número digitado : %i\n" , n);
 
-    printf("TESTANDO O GIT ADD E O GIT COMMIT");
+    printf("TESTANDO O GIT ADD E O GIT COMMIT, unindo com o github");
     return 0 ;
 }
