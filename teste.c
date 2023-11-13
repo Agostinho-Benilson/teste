@@ -1,8 +1,11 @@
 #include <stdio.h>
 int main(){
 
-    printf("hello world");
-    printf("teste do vs code");
-    printf("hello world");
+    int n;
+
+    printf("Digite um numero: ");
+    scanf("%i", &n);
+
+    printf("O número digitado : %i" , n);
     return 0 ;
 }
